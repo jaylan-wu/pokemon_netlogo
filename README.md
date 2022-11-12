@@ -1,8 +1,8 @@
 # Team Racket
 
-Team Racket is a Pokemon passion project made in NetLogo as a simple remake of the Pokemon games with our favorite characters. Here is an example battle screen from the project:
+<img src="./backgrounds/Mew to Snorlax.png" height="400px" alt="terra photo" align="right"/>
 
-<img src="./backgrounds/Mew to Snorlax.png" height="250px" alt="terra photo"/>
+Team Racket is a Pokemon passion project made in NetLogo as a simple remake of the Pokemon games with our favorite characters. Here is an example battle screen from the project:
 
 To try out the game for yourself, put the NetLogo file and the background photos all within the same folder.
 
